@@ -1,0 +1,67 @@
+{
+    "frutas": [
+        {
+            "nombre": "Manzana",
+             "descripcion": "Manzana roja cultivada en Finca Los Sanchez de Grecia, Alajuela",
+            "foto": "assets/img/manzana.jpg",
+            "cantidad": "150 unidades",
+            "precio": "10 unidades x ₡800 colones"
+        },
+        {
+            "nombre": "Durazno",
+             "descripcion": "Durazno traido desde las fincas de las Ruinas de Cartago",
+            "foto": "assets/img/Durazno.jpg",
+            "cantidad": "200 unidades",
+            "precio": "5 unidades x ₡1300 colones"
+        },
+        {
+            "nombre": "Uvas Verdes",
+            "descripcion": "Uvas verdes traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/UvasV.jpg",
+            "cantidad": "10 kg",
+            "precio": "1.5 kg x ₡2500 colones"        
+        },
+        {
+            "nombre": "Uchuvas",
+             "descripcion": "Fruta de temporada || traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/uchuvas.jpg",
+            "cantidad": "5 kg",
+            "precio": "1 kg x ₡3500 colones" 
+        },
+        {
+            "nombre": "Uvas",
+             "descripcion": "Jugosa Uva Morada || traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/uvas.jpg",
+            "cantidad": "5 kg",
+            "precio": "1 kg x ₡2500 colones"  
+        },
+        {
+            "nombre": "Fresas",
+             "descripcion": "Deliciosas Fresas traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/fresas.jpg",
+            "cantidad": "25 cajas",
+            "precio": "3 x ₡1500 colones"
+        },
+        {
+            "nombre": "Cas",
+             "descripcion": "Fruta de temporada ||  Disfrute de un jugoso y refrescante jugo de cas.",
+            "foto": "assets/img/cas.jpg",
+            "cantidad": "10 kg",
+            "precio": "1 kg x ₡900 colones" 
+        },
+        {
+             "nombre": "Pera",
+             "descripcion": "Fruta de temporada || Deliciosas peras traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/peras.jpg",
+            "cantidad": "5 kg",
+            "precio": "4 unidades x ₡1000 colones" 
+        },
+        {
+            "nombre": "Mamon chino",
+             "descripcion": "Fruta de temporada || Deliciosas peras traidas desde CENADA, distribuidor oficial de fruta en el pais.",
+            "foto": "assets/img/mamonchino.jpg",
+            "cantidad": "5 kg",
+            "precio": "1kg x ₡3500 colones"  
+        }
+    ]
+}
